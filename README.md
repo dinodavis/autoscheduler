@@ -1,22 +1,22 @@
 # Hello Node (blank)
 
-[Node.js](https://nodejs.org/en/about/) is a popular runtime that lets you run JavaScript on the server. This project uses the [Fastify](https://www.fastify.io/) framework and basic templating with [Handlebars](https://handlebarsjs.com/).
+[Node.js](https://nodejs.org/en/about/) is a popular runtime that allows to run JavaScript on the server. This project uses the [Fastify](https://www.fastify.io/) framework and basic templating with [Handlebars](https://handlebarsjs.com/).
 
 _Last updated: 14 August 2023_
 
 ## What's in this project?
 
-← `README.md`: That’s this file, where you can tell people what your cool website does and how you built it.
+← `README.md`: That’s this file, where we tell people what this cool website does and how we built it.
 
-← `public/style.css`: The styling rules for your pages and posts.
+← `public/style.css`: The styling rules for this pages and posts.
 
-← `server.js`: The main server script for your new site.
+← `server.js`: The main server script for the new site.
 
 ← `src/`: This folder holds page templates, additional scripts.
 
 ### Working in the `src/` folder 📁
 
-← `src/pages/index.hbs`: This is the main page template for your site.
+← `src/pages/index.hbs`: This is the main page template for this site.
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
